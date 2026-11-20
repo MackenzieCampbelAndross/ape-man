@@ -1,9 +1,9 @@
-# cman
+# ape-man
 
 <p align="center">
-  <img src="cman-logo.png" alt="cman logo" width="200" />
+  <img src="cman-logo.png" alt="ape-man logo" width="200" />
 </p>
 
 ## Overview
 
-Project repository for `cman`.
+Project repository for `ape-man`.
